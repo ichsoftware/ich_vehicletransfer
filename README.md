@@ -1,7 +1,7 @@
-<h1 align="center">☀️ ich_vehicletransfer</h1>
+<h1 align="center">🚗 ich_vehicletransfer</h1>
 
 <p align="center">
-  A lightweight and customizable weather control menu for FiveM — designed for realism, ease of use, and admin control.
+  A lightweight and customizable vehicle transfer system for FiveM Qbox servers — designed for realism, security, and ease of use.
 </p>
 
 <p align="center">
